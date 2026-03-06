@@ -1,6 +1,6 @@
 # Privacy Policy – Daily Quote
 
-_Last updated: 2025_
+_Last updated: 2026_
 
 This document describes how the **Daily Quote** app uses data and third‑party services. It groups all languages in one file so you can link a single URL from the store.
 
@@ -10,7 +10,7 @@ This document describes how the **Daily Quote** app uses data and third‑party 
 
 ### Privacy Policy
 
-Last updated: 2025
+Last updated: 2026
 
 This app ("Daily Quote") uses the following data and services:
 
@@ -44,7 +44,7 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Політика конфіденційності
 
-Востаннє оновлено: 2025
+Востаннє оновлено: 2026
 
 Застосунок «Цитата Дня» використовує такі дані та сервіси.
 
@@ -78,7 +78,7 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Политика конфиденциальности
 
-Последнее обновление: 2025
+Последнее обновление: 2026
 
 Приложение «Цитата Дня» использует следующие данные и сервисы.
 

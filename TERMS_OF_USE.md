@@ -1,6 +1,6 @@
 # Terms of Use – Daily Quote
 
-_Last updated: 2025_
+_Last updated: 2026_
 
 This document describes the conditions under which you may use the **Daily Quote** app.
 
@@ -10,7 +10,7 @@ This document describes the conditions under which you may use the **Daily Quote
 
 ### Terms of Use
 
-Last updated: 2025
+Last updated: 2026
 
 By using the app "Daily Quote" you agree to the following:
 
@@ -48,7 +48,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Угода користувача
 
-Востаннє оновлено: 2025
+Востаннє оновлено: 2026
 
 Користуючись застосунком «Цитата Дня», ви погоджуєтесь із таким.
 
@@ -86,7 +86,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Условия использования
 
-Последнее обновление: 2025
+Последнее обновление: 2026
 
 Используя приложение «Цитата Дня», вы соглашаетесь со следующим.
 
