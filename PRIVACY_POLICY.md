@@ -2,7 +2,7 @@
 
 _Last updated: 2026_
 
-This document describes how the **Daily Quote** app uses data and third‑party services. It groups all languages in one file so you can link a single URL from the store.
+This document describes how the **Daily Quote** app uses data and third‑party services in all supported languages.
 
 ---
 
@@ -33,6 +33,10 @@ This app ("Daily Quote") uses the following data and services:
 #### Third parties
 
 • Quotes and images are loaded from public sources. When you share content, your device’s standard sharing mechanism is used; we do not receive that data.
+
+#### Feedback
+
+• The app includes a "Contact support" / "Write to support" function. Messages you voluntarily send through this section, as well as technical information (app version, language, platform), are forwarded to the developer via the Telegram service. We use these messages only to reply, diagnose issues and improve the app. Please do not include sensitive information (passwords, payment data, etc.) in messages. Data processing in Telegram is governed by Telegram’s own privacy policy.
 
 #### Contact
 
@@ -68,6 +72,10 @@ This app ("Daily Quote") uses the following data and services:
 
 • Цитати та зображення завантажуються з публічних джерел. При надсиланні контенту використовується стандартний механізм вашого пристрою; ми ці дані не отримуємо.
 
+#### Зворотний звʼязок
+
+• У застосунку є функція «Написати в підтримку». Повідомлення, які ви добровільно надсилаєте через цей розділ, а також технічна інформація (версія застосунку, мова, платформа) пересилаються розробнику через сервіс Telegram. Ми використовуємо ці повідомлення лише для відповіді, діагностики проблем та покращення застосунку. Просимо не вказувати в текстах чутливі дані (паролі, платіжні дані тощо). Обробка даних у Telegram регулюється політикою конфіденційності Telegram.
+
 #### Контакти
 
 • Щодо політики — використовуйте контакти з застосунку або зі сторінки в магазині.
@@ -101,6 +109,10 @@ This app ("Daily Quote") uses the following data and services:
 #### Третьи лица
 
 • Цитаты и изображения загружаются из публичных источников. При отправке контента используется стандартный механизм вашего устройства; мы эти данные не получаем.
+
+#### Обратная связь
+
+• В приложении есть функция «Написать в поддержку». Сообщения, которые вы добровольно отправляете через этот раздел, а также техническая информация (версия приложения, язык, платформа) пересылаются разработчику через сервис Telegram. Мы используем эти сообщения только для ответа, диагностики проблем и улучшения приложения. Просим не указывать в текстах чувствительные данные (пароли, платёжные данные и т.п.). Обработка данных в Telegram регулируется политикой конфиденциальности Telegram.
 
 #### Контакт
 
