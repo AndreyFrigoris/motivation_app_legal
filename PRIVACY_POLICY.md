@@ -32,7 +32,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Third parties
 
-• Quotes and images are loaded from public sources. When you share content, your device’s standard sharing mechanism is used; we do not receive that data.
+• Part of the quote database is based on [the-quotes-database](https://github.com/micheleriva/the-quotes-database) by Michele Riva (MIT License). We curate, deduplicate, and localize this data (including our own translations). When you share content, your device’s standard sharing mechanism is used; we do not receive that data.
 
 #### Feedback
 
@@ -70,7 +70,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Треті особи
 
-• Цитати та зображення завантажуються з публічних джерел. При надсиланні контенту використовується стандартний механізм вашого пристрою; ми ці дані не отримуємо.
+• Частина бази цитат створена на основі [the-quotes-database](https://github.com/micheleriva/the-quotes-database) від Michele Riva (ліцензія MIT). Ми виконуємо відбір, видалення дублікатів та локалізацію даних (включно з власними перекладами). При надсиланні контенту використовується стандартний механізм вашого пристрою; ми ці дані не отримуємо.
 
 #### Зворотний звʼязок
 
@@ -108,7 +108,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Третьи лица
 
-• Цитаты и изображения загружаются из публичных источников. При отправке контента используется стандартный механизм вашего устройства; мы эти данные не получаем.
+• Часть базы цитат основана на [the-quotes-database](https://github.com/micheleriva/the-quotes-database) от Michele Riva (лицензия MIT). Мы выполняем отбор, удаление дублей и локализацию данных (включая собственные переводы). При отправке контента используется стандартный механизм вашего устройства; мы эти данные не получаем.
 
 #### Обратная связь
 

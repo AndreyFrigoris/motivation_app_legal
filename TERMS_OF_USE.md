@@ -32,7 +32,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Content
 
-• Quotes and backgrounds are from public‑domain or licensed sources. We do not claim copyright on the original texts. If you believe something infringes your rights, please contact us.
+• Part of the quotes is based on [the-quotes-database](https://github.com/micheleriva/the-quotes-database) by Michele Riva (MIT License), with curation and localization by our team. We do not claim exclusive copyright on original quote texts. If you believe something infringes your rights, please contact us.
 
 #### Changes
 
@@ -70,7 +70,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Контент
 
-• Цитати та фони взяті з публічних або ліцензованих джерел. Ми не претендуємо на авторські права на оригінальні тексти. Якщо вважаєте, що якийсь матеріал порушує ваші права, зв’яжіться з нами.
+• Частина цитат базується на [the-quotes-database](https://github.com/micheleriva/the-quotes-database) від Michele Riva (ліцензія MIT), з подальшим відбором і локалізацією з нашого боку. Ми не претендуємо на виключні авторські права на оригінальні тексти цитат. Якщо вважаєте, що якийсь матеріал порушує ваші права, зв’яжіться з нами.
 
 #### Зміни
 
@@ -108,7 +108,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Контент
 
-• Цитаты и фоны взяты из общедоступных или лицензированных источников. Мы не претендуем на авторские права на оригинальные тексты. Если считаете, что какой‑либо материал нарушает ваши права, свяжитесь с нами.
+• Часть цитат основана на [the-quotes-database](https://github.com/micheleriva/the-quotes-database) от Michele Riva (лицензия MIT), с последующим отбором и локализацией с нашей стороны. Мы не претендуем на исключительные авторские права на оригинальные тексты цитат. Если считаете, что какой‑либо материал нарушает ваши права, свяжитесь с нами.
 
 #### Изменения
 
