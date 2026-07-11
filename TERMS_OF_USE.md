@@ -24,7 +24,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Rewarded advertising
 
-• Free users may optionally watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed). Watching is voluntary. Premium users are not offered rewarded ads for such benefits.
+• Free users may optionally watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed, or temporary use of one Premium background for 24 hours). Watching is voluntary. Premium users are not offered rewarded ads for such benefits.
 
 #### Premium
 
@@ -71,7 +71,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Rewarded-реклама
 
-• Безкоштовні користувачі можуть за бажанням переглянути rewarded-відео (Google AdMob) для обмеженої переваги в застосунку (наприклад, додаткові цитати в стрічці). Перегляд добровільний. Користувачам Premium така реклама не пропонується.
+• Безкоштовні користувачі можуть за бажанням переглянути rewarded-відео (Google AdMob) для обмеженої переваги в застосунку (наприклад, додаткові цитати в стрічці або тимчасове використання одного Premium-фону на 24 години). Перегляд добровільний. Користувачам Premium така реклама не пропонується.
 
 #### Premium
 
@@ -118,7 +118,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Rewarded-реклама
 
-• Бесплатные пользователи могут по желанию посмотреть rewarded-видео (Google AdMob) для ограниченной выгоды в приложении (например, дополнительные цитаты в ленте). Просмотр добровольный. Пользователям Premium такая реклама не предлагается.
+• Бесплатные пользователи могут по желанию посмотреть rewarded-видео (Google AdMob) для ограниченной выгоды в приложении (например, дополнительные цитаты в ленте или временное использование одного Premium-фона на 24 часа). Просмотр добровольный. Пользователям Premium такая реклама не предлагается.
 
 #### Premium
 

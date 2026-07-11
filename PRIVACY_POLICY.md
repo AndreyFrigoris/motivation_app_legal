@@ -28,7 +28,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Rewarded advertising
 
-• Free users may optionally choose to watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed). You decide whether to watch; AdMob may collect data as described above. Rewarded ads are not offered to Premium users.
+• Free users may optionally choose to watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed, or temporary use of one Premium background for 24 hours). You decide whether to watch; AdMob may collect data as described above. Rewarded ads are not offered to Premium users.
 
 #### Premium purchases
 
@@ -75,7 +75,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Rewarded-реклама
 
-• Безкоштовні користувачі можуть за власним бажанням переглянути rewarded-відео (Google AdMob) для обмеженої внутрішньої переваги (наприклад, додаткові цитати в стрічці). Ви самі вирішуєте, чи дивитися рекламу. Користувачам Premium така реклама не пропонується.
+• Безкоштовні користувачі можуть за власним бажанням переглянути rewarded-відео (Google AdMob) для обмеженої внутрішньої переваги (наприклад, додаткові цитати в стрічці або тимчасове використання одного Premium-фону на 24 години). Ви самі вирішуєте, чи дивитися рекламу. Користувачам Premium така реклама не пропонується.
 
 #### Premium-покупки
 
@@ -122,7 +122,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Rewarded-реклама
 
-• Бесплатные пользователи могут по своему желанию посмотреть rewarded-видео (Google AdMob) для ограниченной внутриприложенной выгоды (например, дополнительные цитаты в ленте). Вы сами решаете, смотреть ли рекламу. Пользователям Premium такая реклама не предлагается.
+• Бесплатные пользователи могут по своему желанию посмотреть rewarded-видео (Google AdMob) для ограниченной внутриприложенной выгоды (например, дополнительные цитаты в ленте или временное использование одного Premium-фона на 24 часа). Вы сами решаете, смотреть ли рекламу. Пользователям Premium такая реклама не предлагается.
 
 #### Premium-покупки
 
