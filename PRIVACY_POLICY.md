@@ -1,6 +1,6 @@
 # Privacy Policy – Daily Quote
 
-_Last updated: 2026_
+_Last updated: July 2026_
 
 This document describes how the **Daily Quote** app uses data and third‑party services in all supported languages.
 
@@ -10,7 +10,7 @@ This document describes how the **Daily Quote** app uses data and third‑party 
 
 ### Privacy Policy
 
-Last updated: 2026
+Last updated: July 2026
 
 This app ("Daily Quote") uses the following data and services:
 
@@ -20,15 +20,24 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Analytics and crash reports
 
-• We use Firebase (Google) to collect anonymous analytics (e.g. app opens, feature usage) and crash reports (stack traces, device info) to improve stability and the app. This data is processed by Google under their privacy policy.
+• We use Firebase (Google) to collect anonymous analytics (e.g. app opens, feature usage, paywall and purchase events) and crash reports (stack traces, device info) to improve stability and the app. This data is processed by Google under their privacy policy.
 
 #### Advertising
 
-• The app shows a banner ad provided by Google AdMob. AdMob may collect data (e.g. device ID, approximate location) to serve and measure ads. See Google’s advertising and privacy policies for details.
+• The app may show a banner ad (Google AdMob) for free users. AdMob may collect data (e.g. device ID, approximate location) to serve and measure ads. See Google’s advertising and privacy policies for details. Banner ads are not shown to Premium users.
+
+#### Rewarded advertising
+
+• Free users may optionally choose to watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed). You decide whether to watch; AdMob may collect data as described above. Rewarded ads are not offered to Premium users.
+
+#### Premium purchases
+
+• The app offers optional Premium access via Google Play Billing: a monthly subscription and a one-time lifetime purchase. Payments and subscription management are handled entirely by Google Play; we do not receive or store your payment card or bank details.
+• A free 24-hour Premium trial may be offered once per device; the trial start time is stored locally on your device. Purchase and subscription status are verified through Google Play when you buy or restore. Premium removes banner ads and unlocks additional in-app features.
 
 #### Donations
 
-• If you support the developer via "Google Play" (in‑app purchase) or "Monobank", payment is handled entirely by Google Play or the payment provider. We do not receive or store your payment details.
+• Donations are separate from Premium. If you support the developer via "Support the developer" (Google Play consumable in-app purchase or Monobank), payment is handled entirely by Google Play or the payment provider. We do not receive or store your payment details.
 
 #### Third parties
 
@@ -48,7 +57,7 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Політика конфіденційності
 
-Востаннє оновлено: 2026
+Востаннє оновлено: липень 2026
 
 Застосунок «Цитата Дня» використовує такі дані та сервіси.
 
@@ -58,15 +67,24 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Аналітика та звіти про збої
 
-• Ми використовуємо Firebase (Google) для збору анонімної аналітики (наприклад, відкриття застосунку, використання функцій) та звітів про збої (стектрейси, дані пристрою), щоб покращувати стабільність і застосунок. Ці дані обробляються Google згідно з їхньою політикою конфіденційності.
+• Ми використовуємо Firebase (Google) для збору анонімної аналітики (наприклад, відкриття застосунку, використання функцій, події paywall і покупок) та звітів про збої (стектрейси, дані пристрою), щоб покращувати стабільність і застосунок. Ці дані обробляються Google згідно з їхньою політикою конфіденційності.
 
 #### Реклама
 
-• У застосунку показується баннерна реклама від Google AdMob. AdMob може збирати дані (наприклад, ідентифікатор пристрою, приблизне місцезнаходження) для показу та оцінки реклами. Деталі — у політиках Google щодо реклами та конфіденційності.
+• У застосунку може показуватися баннерна реклама (Google AdMob) для безкоштовних користувачів. AdMob може збирати дані (наприклад, ідентифікатор пристрою, приблизне місцезнаходження) для показу та оцінки реклами. Деталі — у політиках Google. Банер не показується користувачам Premium.
+
+#### Rewarded-реклама
+
+• Безкоштовні користувачі можуть за власним бажанням переглянути rewarded-відео (Google AdMob) для обмеженої внутрішньої переваги (наприклад, додаткові цитати в стрічці). Ви самі вирішуєте, чи дивитися рекламу. Користувачам Premium така реклама не пропонується.
+
+#### Premium-покупки
+
+• Застосунок пропонує необов’язковий Premium через Google Play Billing: щомісячна підписка або разова покупка «назавжди». Оплату та керування підпискою повністю обробляє Google Play; ми не отримуємо і не зберігаємо дані вашої картки чи рахунку.
+• Може бути доступний безкоштовний пробний Premium на 24 години (один раз на пристрій); час початку trial зберігається локально. Статус покупки перевіряється через Google Play при покупці або відновленні. Premium прибирає банер і відкриває додаткові функції в застосунку.
 
 #### Донати
 
-• Якщо ви підтримуєте розробника через «Google Play» (покупка в застосунку) або «Monobank», оплату повністю обробляють Google Play або платіжний провайдер. Ми не отримуємо і не зберігаємо платіжні дані.
+• Донати окремі від Premium. Якщо ви підтримуєте розробника через «Підтримати розробника» (consumable-покупка в Google Play або Monobank), оплату повністю обробляють Google Play або платіжний провайдер. Ми не отримуємо і не зберігаємо платіжні дані.
 
 #### Треті особи
 
@@ -86,7 +104,7 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Политика конфиденциальности
 
-Последнее обновление: 2026
+Последнее обновление: июль 2026
 
 Приложение «Цитата Дня» использует следующие данные и сервисы.
 
@@ -96,15 +114,24 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Аналитика и отчёты о сбоях
 
-• Мы используем Firebase (Google) для сбора анонимной аналитики (например, открытия приложения, использование функций) и отчётов о сбоях (стектрейсы, данные устройства), чтобы улучшать стабильность и приложение. Эти данные обрабатываются Google в соответствии с их политикой конфиденциальности.
+• Мы используем Firebase (Google) для сбора анонимной аналитики (например, открытия приложения, использование функций, события paywall и покупок) и отчётов о сбоях (стектрейсы, данные устройства), чтобы улучшать стабильность и приложение. Эти данные обрабатываются Google в соответствии с их политикой конфиденциальности.
 
 #### Реклама
 
-• В приложении показывается баннерная реклама от Google AdMob. AdMob может собирать данные (например, идентификатор устройства, приблизительное местоположение) для показа и оценки рекламы. Подробности — в политиках Google в отношении рекламы и конфиденциальности.
+• В приложении может показываться баннерная реклама (Google AdMob) для бесплатных пользователей. AdMob может собирать данные (например, идентификатор устройства, приблизительное местоположение) для показа и оценки рекламы. Подробности — в политиках Google. Баннер не показывается пользователям Premium.
+
+#### Rewarded-реклама
+
+• Бесплатные пользователи могут по своему желанию посмотреть rewarded-видео (Google AdMob) для ограниченной внутриприложенной выгоды (например, дополнительные цитаты в ленте). Вы сами решаете, смотреть ли рекламу. Пользователям Premium такая реклама не предлагается.
+
+#### Premium-покупки
+
+• Приложение предлагает необязательный Premium через Google Play Billing: ежемесячная подписка или разовая покупка «навсегда». Оплату и управление подпиской полностью обрабатывает Google Play; мы не получаем и не храним данные вашей карты или счёта.
+• Может быть доступен бесплатный пробный Premium на 24 часа (один раз на устройство); время начала trial хранится локально. Статус покупки проверяется через Google Play при покупке или восстановлении. Premium убирает баннер и открывает дополнительные функции в приложении.
 
 #### Донаты
 
-• Если вы поддерживаете разработчика через «Google Play» (покупка в приложении) или «Monobank», платёж полностью обрабатывают Google Play или платёжный провайдер. Мы не получаем и не храним платёжные данные.
+• Донаты отделены от Premium. Если вы поддерживаете разработчика через «Поддержать разработчика» (consumable-покупка в Google Play или Monobank), платёж полностью обрабатывают Google Play или платёжный провайдер. Мы не получаем и не храним платёжные данные.
 
 #### Третьи лица
 
@@ -117,4 +144,3 @@ This app ("Daily Quote") uses the following data and services:
 #### Контакт
 
 • По вопросам политики — используйте контакты из приложения или со страницы в магазине.
-

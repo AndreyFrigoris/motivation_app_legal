@@ -1,6 +1,6 @@
 # Terms of Use – Daily Quote
 
-_Last updated: 2026_
+_Last updated: July 2026_
 
 This document describes the conditions under which you may use the **Daily Quote** app.
 
@@ -10,7 +10,7 @@ This document describes the conditions under which you may use the **Daily Quote
 
 ### Terms of Use
 
-Last updated: 2026
+Last updated: July 2026
 
 By using the app "Daily Quote" you agree to the following:
 
@@ -20,11 +20,20 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Advertising
 
-• The app may display a banner ad (Google AdMob). Ad content and data processing are governed by Google’s policies.
+• The app may display a banner ad (Google AdMob) for free users. Ad content and data processing are governed by Google’s policies. Banner ads are not shown to Premium users.
+
+#### Rewarded advertising
+
+• Free users may optionally watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed). Watching is voluntary. Premium users are not offered rewarded ads for such benefits.
+
+#### Premium
+
+• Premium is optional and separate from donations. It may be purchased as a monthly subscription (auto-renews until cancelled in your Google Play account) or as a one-time lifetime purchase. A one-time 24-hour free trial may be available per device; after it ends, Premium features require purchase.
+• Refunds, billing disputes, and subscription cancellation are governed by Google Play policies. We may update Premium features or pricing over time; existing purchases remain subject to applicable store rules.
 
 #### Donations
 
-• You may support the developer via "Support the developer" (e.g. Google Play in‑app purchase or Monobank link). Payments are processed by the respective provider; we do not handle payment data. Refunds are subject to the provider’s rules.
+• You may support the developer via "Support the developer" (Google Play consumable in-app purchase or Monobank link). This is separate from Premium. Payments are processed by the respective provider; we do not handle payment data. Refunds are subject to the provider’s rules.
 
 #### Analytics and crash reports
 
@@ -48,7 +57,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Угода користувача
 
-Востаннє оновлено: 2026
+Востаннє оновлено: липень 2026
 
 Користуючись застосунком «Цитата Дня», ви погоджуєтесь із таким.
 
@@ -58,11 +67,20 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Реклама
 
-• У застосунку може показуватися баннерна реклама (Google AdMob). Зміст реклами та обробка даних регулюються політиками Google.
+• У застосунку може показуватися баннерна реклама (Google AdMob) для безкоштовних користувачів. Зміст реклами та обробка даних регулюються політиками Google. Банер не показується користувачам Premium.
+
+#### Rewarded-реклама
+
+• Безкоштовні користувачі можуть за бажанням переглянути rewarded-відео (Google AdMob) для обмеженої переваги в застосунку (наприклад, додаткові цитати в стрічці). Перегляд добровільний. Користувачам Premium така реклама не пропонується.
+
+#### Premium
+
+• Premium необов’язковий і окремий від донатів. Його можна придбати як щомісячну підписку (автопродовження до скасування в обліковому записі Google Play) або разову покупку «назавжди». Може бути доступний одноразовий пробний період 24 години на пристрій; після його завершення потрібна покупка.
+• Повернення коштів, спори щодо оплати та скасування підписки регулюються правилами Google Play. Ми можемо оновлювати функції або ціни Premium; існуючі покупки підпорядковуються відповідним правилам магазину.
 
 #### Донати
 
-• Ви можете підтримати розробника через «Підтримати розробника» (наприклад, покупка в застосунку Google Play або посилання Monobank). Оплату обробляє відповідний провайдер; ми не обробляємо платіжні дані. Повернення коштів регулюються правилами провайдера.
+• Ви можете підтримати розробника через «Підтримати розробника» (consumable-покупка в Google Play або Monobank). Це окремо від Premium. Оплату обробляє відповідний провайдер; ми не обробляємо платіжні дані. Повернення коштів регулюються правилами провайдера.
 
 #### Аналітика та звіти про збої
 
@@ -86,7 +104,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Условия использования
 
-Последнее обновление: 2026
+Последнее обновление: июль 2026
 
 Используя приложение «Цитата Дня», вы соглашаетесь со следующим.
 
@@ -96,11 +114,20 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Реклама
 
-• В приложении может показываться баннерная реклама (Google AdMob). Содержимое рекламы и обработка данных регулируются политиками Google.
+• В приложении может показываться баннерная реклама (Google AdMob) для бесплатных пользователей. Содержимое рекламы и обработка данных регулируются политиками Google. Баннер не показывается пользователям Premium.
+
+#### Rewarded-реклама
+
+• Бесплатные пользователи могут по желанию посмотреть rewarded-видео (Google AdMob) для ограниченной выгоды в приложении (например, дополнительные цитаты в ленте). Просмотр добровольный. Пользователям Premium такая реклама не предлагается.
+
+#### Premium
+
+• Premium необязателен и отделён от донатов. Его можно приобрести как ежемесячную подписку (автопродление до отмены в аккаунте Google Play) или разовую покупку «навсегда». Может быть доступен одноразовый пробный период 24 часа на устройство; после его окончания требуется покупка.
+• Возврат средств, споры по оплате и отмена подписки регулируются правилами Google Play. Мы можем обновлять функции или цены Premium; существующие покупки подчиняются правилам магазина.
 
 #### Донаты
 
-• Вы можете поддержать разработчика через «Поддержать разработчика» (например, покупка в приложении Google Play или ссылка Monobank). Оплату обрабатывает соответствующий провайдер; мы не обрабатываем платёжные данные. Возврат средств регулируется правилами провайдера.
+• Вы можете поддержать разработчика через «Поддержать разработчика» (consumable-покупка в Google Play или Monobank). Это отдельно от Premium. Оплату обрабатывает соответствующий провайдер; мы не обрабатываем платёжные данные. Возврат средств регулируется правилами провайдера.
 
 #### Аналитика и отчёты о сбоях
 
@@ -117,4 +144,3 @@ By using the app "Daily Quote" you agree to the following:
 #### Ограничение ответственности
 
 • Приложение предоставляется «как есть». Мы не несём ответственности за косвенные убытки, возникшие в результате использования приложения.
-
