@@ -33,7 +33,7 @@ This app ("Daily Quote") uses the following data and services:
 #### Premium purchases
 
 • The app offers optional Premium access via Google Play Billing: a monthly subscription and a one-time lifetime purchase. Payments and subscription management are handled entirely by Google Play; we do not receive or store your payment card or bank details.
-• A free 24-hour Premium trial may be offered once per device; the trial start time is stored locally on your device. Purchase and subscription status are verified through Google Play when you buy or restore. Premium removes banner ads and unlocks additional in-app features.
+• Purchase and subscription status are verified through Google Play when you buy or restore. Premium removes banner ads and unlocks additional in-app features.
 
 #### Donations
 
@@ -80,7 +80,7 @@ This app ("Daily Quote") uses the following data and services:
 #### Premium-покупки
 
 • Застосунок пропонує необов’язковий Premium через Google Play Billing: щомісячна підписка або разова покупка «назавжди». Оплату та керування підпискою повністю обробляє Google Play; ми не отримуємо і не зберігаємо дані вашої картки чи рахунку.
-• Може бути доступний безкоштовний пробний Premium на 24 години (один раз на пристрій); час початку trial зберігається локально. Статус покупки перевіряється через Google Play при покупці або відновленні. Premium прибирає банер і відкриває додаткові функції в застосунку.
+• Статус покупки перевіряється через Google Play при покупці або відновленні. Premium прибирає банер і відкриває додаткові функції в застосунку.
 
 #### Донати
 
@@ -127,7 +127,7 @@ This app ("Daily Quote") uses the following data and services:
 #### Premium-покупки
 
 • Приложение предлагает необязательный Premium через Google Play Billing: ежемесячная подписка или разовая покупка «навсегда». Оплату и управление подпиской полностью обрабатывает Google Play; мы не получаем и не храним данные вашей карты или счёта.
-• Может быть доступен бесплатный пробный Premium на 24 часа (один раз на устройство); время начала trial хранится локально. Статус покупки проверяется через Google Play при покупке или восстановлении. Premium убирает баннер и открывает дополнительные функции в приложении.
+• Статус покупки проверяется через Google Play при покупке или восстановлении. Premium убирает баннер и открывает дополнительные функции в приложении.
 
 #### Донаты
 

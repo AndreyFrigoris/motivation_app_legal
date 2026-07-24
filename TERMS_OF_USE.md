@@ -28,7 +28,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Premium
 
-• Premium is optional and separate from donations. It may be purchased as a monthly subscription (auto-renews until cancelled in your Google Play account) or as a one-time lifetime purchase. A one-time 24-hour free trial may be available per device; after it ends, Premium features require purchase.
+• Premium is optional and separate from donations. It may be purchased as a monthly subscription (auto-renews until cancelled in your Google Play account) or as a one-time lifetime purchase.
 • Refunds, billing disputes, and subscription cancellation are governed by Google Play policies. We may update Premium features or pricing over time; existing purchases remain subject to applicable store rules.
 
 #### Donations
@@ -75,7 +75,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Premium
 
-• Premium необов’язковий і окремий від донатів. Його можна придбати як щомісячну підписку (автопродовження до скасування в обліковому записі Google Play) або разову покупку «назавжди». Може бути доступний одноразовий пробний період 24 години на пристрій; після його завершення потрібна покупка.
+• Premium необов’язковий і окремий від донатів. Його можна придбати як щомісячну підписку (автопродовження до скасування в обліковому записі Google Play) або разову покупку «назавжди».
 • Повернення коштів, спори щодо оплати та скасування підписки регулюються правилами Google Play. Ми можемо оновлювати функції або ціни Premium; існуючі покупки підпорядковуються відповідним правилам магазину.
 
 #### Донати
@@ -122,7 +122,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Premium
 
-• Premium необязателен и отделён от донатов. Его можно приобрести как ежемесячную подписку (автопродление до отмены в аккаунте Google Play) или разовую покупку «навсегда». Может быть доступен одноразовый пробный период 24 часа на устройство; после его окончания требуется покупка.
+• Premium необязателен и отделён от донатов. Его можно приобрести как ежемесячную подписку (автопродление до отмены в аккаунте Google Play) или разовую покупку «навсегда».
 • Возврат средств, споры по оплате и отмена подписки регулируются правилами Google Play. Мы можем обновлять функции или цены Premium; существующие покупки подчиняются правилам магазина.
 
 #### Донаты
