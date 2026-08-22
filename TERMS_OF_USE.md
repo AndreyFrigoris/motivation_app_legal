@@ -1,6 +1,6 @@
 # Terms of Use – Daily Quote
 
-_Last updated: July 2026_
+_Last updated: August 2026_
 
 This document describes the conditions under which you may use the **Daily Quote** app.
 
@@ -10,7 +10,7 @@ This document describes the conditions under which you may use the **Daily Quote
 
 ### Terms of Use
 
-Last updated: July 2026
+Last updated: August 2026
 
 By using the app "Daily Quote" you agree to the following:
 
@@ -24,7 +24,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Rewarded advertising
 
-• Free users may optionally watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed, or temporary use of one Premium background for 24 hours). Watching is voluntary. Premium users are not offered rewarded ads for such benefits.
+• Free users may optionally watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed, temporary use of one Premium background for 24 hours, or unlocking one past Quote of the Day). Watching is voluntary. Premium users are not offered rewarded ads for such benefits.
 
 #### Premium
 
@@ -57,7 +57,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Угода користувача
 
-Востаннє оновлено: липень 2026
+Востаннє оновлено: серпень 2026
 
 Користуючись застосунком «Цитата Дня», ви погоджуєтесь із таким.
 
@@ -71,7 +71,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Rewarded-реклама
 
-• Безкоштовні користувачі можуть за бажанням переглянути rewarded-відео (Google AdMob) для обмеженої переваги в застосунку (наприклад, додаткові цитати в стрічці або тимчасове використання одного Premium-фону на 24 години). Перегляд добровільний. Користувачам Premium така реклама не пропонується.
+• Безкоштовні користувачі можуть за бажанням переглянути rewarded-відео (Google AdMob) для обмеженої переваги в застосунку (наприклад, додаткові цитати в стрічці, тимчасове використання одного Premium-фону на 24 години або відкриття однієї минулої цитати дня). Перегляд добровільний. Користувачам Premium така реклама не пропонується.
 
 #### Premium
 
@@ -104,7 +104,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Условия использования
 
-Последнее обновление: июль 2026
+Последнее обновление: август 2026
 
 Используя приложение «Цитата Дня», вы соглашаетесь со следующим.
 
@@ -118,7 +118,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Rewarded-реклама
 
-• Бесплатные пользователи могут по желанию посмотреть rewarded-видео (Google AdMob) для ограниченной выгоды в приложении (например, дополнительные цитаты в ленте или временное использование одного Premium-фона на 24 часа). Просмотр добровольный. Пользователям Premium такая реклама не предлагается.
+• Бесплатные пользователи могут по желанию посмотреть rewarded-видео (Google AdMob) для ограниченной выгоды в приложении (например, дополнительные цитаты в ленте, временное использование одного Premium-фона на 24 часа или открытие одной прошлой цитаты дня). Просмотр добровольный. Пользователям Premium такая реклама не предлагается.
 
 #### Premium
 

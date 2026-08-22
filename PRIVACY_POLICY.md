@@ -1,6 +1,6 @@
 # Privacy Policy – Daily Quote
 
-_Last updated: July 2026_
+_Last updated: August 2026_
 
 This document describes how the **Daily Quote** app uses data and third‑party services in all supported languages.
 
@@ -10,13 +10,13 @@ This document describes how the **Daily Quote** app uses data and third‑party 
 
 ### Privacy Policy
 
-Last updated: July 2026
+Last updated: August 2026
 
 This app ("Daily Quote") uses the following data and services:
 
 #### Data stored on your device
 
-• Your preferences (theme, language, notification settings, name) and favorite quotes are stored only on your device. We do not transmit them to our servers.
+• Your preferences (theme, language, notification settings, name) and favorite quotes, and a local archive of daily quotes, are stored only on your device. We do not transmit them to our servers.
 
 #### Analytics and crash reports
 
@@ -28,7 +28,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Rewarded advertising
 
-• Free users may optionally choose to watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed, or temporary use of one Premium background for 24 hours). You decide whether to watch; AdMob may collect data as described above. Rewarded ads are not offered to Premium users.
+• Free users may optionally choose to watch a rewarded video ad (Google AdMob) for a limited in-app benefit (for example, additional quotes in the feed, temporary use of one Premium background for 24 hours, or unlocking one past Quote of the Day). You decide whether to watch; AdMob may collect data as described above. Rewarded ads are not offered to Premium users.
 
 #### Premium purchases
 
@@ -57,13 +57,13 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Політика конфіденційності
 
-Востаннє оновлено: липень 2026
+Востаннє оновлено: серпень 2026
 
 Застосунок «Цитата Дня» використовує такі дані та сервіси.
 
 #### Дані на пристрої
 
-• Ваші налаштування (тема, мова, сповіщення, ім’я) та обрані цитати зберігаються лише на вашому пристрої й не передаються на наші сервери.
+• Ваші налаштування (тема, мова, сповіщення, ім’я) та обрані цитати й локальний архів цитат дня зберігаються лише на вашому пристрої й не передаються на наші сервери.
 
 #### Аналітика та звіти про збої
 
@@ -75,7 +75,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Rewarded-реклама
 
-• Безкоштовні користувачі можуть за власним бажанням переглянути rewarded-відео (Google AdMob) для обмеженої внутрішньої переваги (наприклад, додаткові цитати в стрічці або тимчасове використання одного Premium-фону на 24 години). Ви самі вирішуєте, чи дивитися рекламу. Користувачам Premium така реклама не пропонується.
+• Безкоштовні користувачі можуть за власним бажанням переглянути rewarded-відео (Google AdMob) для обмеженої внутрішньої переваги (наприклад, додаткові цитати в стрічці, тимчасове використання одного Premium-фону на 24 години або відкриття однієї минулої цитати дня). Ви самі вирішуєте, чи дивитися рекламу. Користувачам Premium така реклама не пропонується.
 
 #### Premium-покупки
 
@@ -104,13 +104,13 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Политика конфиденциальности
 
-Последнее обновление: июль 2026
+Последнее обновление: август 2026
 
 Приложение «Цитата Дня» использует следующие данные и сервисы.
 
 #### Данные на устройстве
 
-• Ваши настройки (тема, язык, уведомления, имя) и избранные цитаты хранятся только на вашем устройстве и не передаются на наши серверы.
+• Ваши настройки (тема, язык, уведомления, имя) и избранные цитаты, а также локальный архив цитат дня хранятся только на вашем устройстве и не передаются на наши серверы.
 
 #### Аналитика и отчёты о сбоях
 
@@ -122,7 +122,7 @@ This app ("Daily Quote") uses the following data and services:
 
 #### Rewarded-реклама
 
-• Бесплатные пользователи могут по своему желанию посмотреть rewarded-видео (Google AdMob) для ограниченной внутриприложенной выгоды (например, дополнительные цитаты в ленте или временное использование одного Premium-фона на 24 часа). Вы сами решаете, смотреть ли рекламу. Пользователям Premium такая реклама не предлагается.
+• Бесплатные пользователи могут по своему желанию посмотреть rewarded-видео (Google AdMob) для ограниченной внутриприложенной выгоды (например, дополнительные цитаты в ленте, временное использование одного Premium-фона на 24 часа или открытие одной прошлой цитаты дня). Вы сами решаете, смотреть ли рекламу. Пользователям Premium такая реклама не предлагается.
 
 #### Premium-покупки
 
