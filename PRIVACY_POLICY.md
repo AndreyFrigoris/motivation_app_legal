@@ -1,6 +1,6 @@
 # Privacy Policy – Daily Quote
 
-_Last updated: August 2026_
+_Last updated: September 2026_
 
 This document describes how the **Daily Quote** app uses data and third‑party services in all supported languages.
 
@@ -10,13 +10,21 @@ This document describes how the **Daily Quote** app uses data and third‑party 
 
 ### Privacy Policy
 
-Last updated: August 2026
+Last updated: September 2026
 
 This app ("Daily Quote") uses the following data and services:
 
 #### Data stored on your device
 
-• Your preferences (theme, language, notification settings, name) and favorite quotes, and a local archive of daily quotes, are stored only on your device. We do not transmit them to our servers.
+• Your preferences (theme, language, notification settings, name), favorite quotes, a local archive of daily quotes, and any photo you choose as a card background are stored only on your device. We do not transmit them to our servers.
+
+#### Photos you choose as a card background
+
+• Premium users may choose an image from their device to use as a quote card background.
+• You select the image yourself. A copy is stored only on your device, in the app’s local storage. We do not upload it to our servers, do not review it, and do not share it with anyone.
+• If you save or share a quote picture, that file is created on your device. If you share it, it leaves the device only through your phone’s share sheet — we do not receive it.
+• Removing the custom background in the app, or uninstalling the app, deletes that copy on the device.
+• Before the first import, the app shows a short notice. You are solely responsible for the image; the developer does not share that responsibility. See the Terms of Use.
 
 #### Analytics and crash reports
 
@@ -33,7 +41,7 @@ This app ("Daily Quote") uses the following data and services:
 #### Premium purchases
 
 • The app offers optional Premium access via Google Play Billing: a monthly subscription and a one-time lifetime purchase. Payments and subscription management are handled entirely by Google Play; we do not receive or store your payment card or bank details.
-• Purchase and subscription status are verified through Google Play when you buy or restore. Premium removes banner ads and unlocks additional in-app features.
+• Purchase and subscription status are verified through Google Play when you buy or restore. Premium removes banner ads and unlocks additional in-app features (including the full quote archive and using your own photo as a card background).
 
 #### Donations
 
@@ -57,13 +65,21 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Політика конфіденційності
 
-Востаннє оновлено: серпень 2026
+Востаннє оновлено: вересень 2026
 
 Застосунок «Цитата Дня» використовує такі дані та сервіси.
 
 #### Дані на пристрої
 
-• Ваші налаштування (тема, мова, сповіщення, ім’я) та обрані цитати й локальний архів цитат дня зберігаються лише на вашому пристрої й не передаються на наші сервери.
+• Ваші налаштування (тема, мова, сповіщення, ім’я), обрані цитати, локальний архів цитат дня та будь-яке фото, яке ви обираєте як фон картки, зберігаються лише на вашому пристрої й не передаються на наші сервери.
+
+#### Фото, яке ви обираєте як фон картки
+
+• Користувачі Premium можуть обрати зображення зі свого пристрою як фон картки з цитатою.
+• Зображення обираєте ви. Копія зберігається лише на пристрої, у сховищі застосунку. Ми не завантажуємо його на наші сервери, не переглядаємо і нікому не передаємо.
+• Якщо ви зберігаєте або надсилаєте картинку з цитатою, файл створюється на вашому пристрої. Якщо ви його надсилаєте, він покидає пристрій лише через системний «поділитися» — ми цей файл не отримуємо.
+• Видалення свого фону в застосунку або видалення застосунку стирає цю копію на пристрої.
+• Перед першим імпортом застосунок показує коротке попередження. Відповідальність за зображення несете лише ви; розробник її з вами не розділяє. Див. Угоду користувача.
 
 #### Аналітика та звіти про збої
 
@@ -80,7 +96,7 @@ This app ("Daily Quote") uses the following data and services:
 #### Premium-покупки
 
 • Застосунок пропонує необов’язковий Premium через Google Play Billing: щомісячна підписка або разова покупка «назавжди». Оплату та керування підпискою повністю обробляє Google Play; ми не отримуємо і не зберігаємо дані вашої картки чи рахунку.
-• Статус покупки перевіряється через Google Play при покупці або відновленні. Premium прибирає банер і відкриває додаткові функції в застосунку.
+• Статус покупки перевіряється через Google Play при покупці або відновленні. Premium прибирає банер і відкриває додаткові функції в застосунку (зокрема повний архів цитат дня та власне фото як фон картки).
 
 #### Донати
 
@@ -104,13 +120,21 @@ This app ("Daily Quote") uses the following data and services:
 
 ### Политика конфиденциальности
 
-Последнее обновление: август 2026
+Последнее обновление: сентябрь 2026
 
 Приложение «Цитата Дня» использует следующие данные и сервисы.
 
 #### Данные на устройстве
 
-• Ваши настройки (тема, язык, уведомления, имя) и избранные цитаты, а также локальный архив цитат дня хранятся только на вашем устройстве и не передаются на наши серверы.
+• Ваши настройки (тема, язык, уведомления, имя), избранные цитаты, локальный архив цитат дня и любое фото, которое вы выбираете как фон карточки, хранятся только на вашем устройстве и не передаются на наши серверы.
+
+#### Фото, которое вы выбираете как фон карточки
+
+• Пользователи Premium могут выбрать изображение со своего устройства как фон карточки с цитатой.
+• Изображение выбираете вы. Копия хранится только на устройстве, в хранилище приложения. Мы не загружаем его на наши серверы, не просматриваем и никому не передаём.
+• Если вы сохраняете или отправляете картинку с цитатой, файл создаётся на вашем устройстве. Если вы им делитесь, он покидает устройство только через системный «поделиться» — мы этот файл не получаем.
+• Удаление своего фона в приложении или удаление приложения стирает эту копию на устройстве.
+• Перед первым импортом приложение показывает короткое предупреждение. Ответственность за изображение несёте только вы; разработчик её с вами не разделяет. См. Условия использования.
 
 #### Аналитика и отчёты о сбоях
 
@@ -127,7 +151,7 @@ This app ("Daily Quote") uses the following data and services:
 #### Premium-покупки
 
 • Приложение предлагает необязательный Premium через Google Play Billing: ежемесячная подписка или разовая покупка «навсегда». Оплату и управление подпиской полностью обрабатывает Google Play; мы не получаем и не храним данные вашей карты или счёта.
-• Статус покупки проверяется через Google Play при покупке или восстановлении. Premium убирает баннер и открывает дополнительные функции в приложении.
+• Статус покупки проверяется через Google Play при покупке или восстановлении. Premium убирает баннер и открывает дополнительные функции в приложении (в том числе полный архив цитат дня и своё фото как фон карточки).
 
 #### Донаты
 

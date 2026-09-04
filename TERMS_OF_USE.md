@@ -1,6 +1,6 @@
 # Terms of Use – Daily Quote
 
-_Last updated: August 2026_
+_Last updated: September 2026_
 
 This document describes the conditions under which you may use the **Daily Quote** app.
 
@@ -10,7 +10,7 @@ This document describes the conditions under which you may use the **Daily Quote
 
 ### Terms of Use
 
-Last updated: August 2026
+Last updated: September 2026
 
 By using the app "Daily Quote" you agree to the following:
 
@@ -31,6 +31,14 @@ By using the app "Daily Quote" you agree to the following:
 • Premium is optional and separate from donations. It may be purchased as a monthly subscription (auto-renews until cancelled in your Google Play account) or as a one-time lifetime purchase.
 • Refunds, billing disputes, and subscription cancellation are governed by Google Play policies. We may update Premium features or pricing over time; existing purchases remain subject to applicable store rules.
 
+#### User-selected backgrounds
+
+• Premium may include using your own image as a quote card background. Before the first import, the app shows a short notice that you must confirm.
+• You confirm that you have the right to use the image (your photo, a license, or public domain) and that it is not illegal, infringing, or otherwise prohibited.
+• The developer does not review or moderate images that remain on your device and **does not share responsibility** with you for their content, copyright, or any consequences of using them (including if you share a quote picture you created).
+• You are solely responsible for user-selected images. How they are stored on the device is described in the Privacy Policy.
+• We may disable this feature if required by store rules.
+
 #### Donations
 
 • You may support the developer via "Support the developer" (Google Play consumable in-app purchase or Monobank link). This is separate from Premium. Payments are processed by the respective provider; we do not handle payment data. Refunds are subject to the provider’s rules.
@@ -49,7 +57,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Disclaimer
 
-• The app is provided "as is". We are not liable for any indirect or consequential damages arising from the use of the app.
+• The app is provided "as is". We are not liable for any indirect or consequential damages arising from the use of the app, including from user-selected images used as backgrounds.
 
 ---
 
@@ -57,7 +65,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Угода користувача
 
-Востаннє оновлено: серпень 2026
+Востаннє оновлено: вересень 2026
 
 Користуючись застосунком «Цитата Дня», ви погоджуєтесь із таким.
 
@@ -78,6 +86,14 @@ By using the app "Daily Quote" you agree to the following:
 • Premium необов’язковий і окремий від донатів. Його можна придбати як щомісячну підписку (автопродовження до скасування в обліковому записі Google Play) або разову покупку «назавжди».
 • Повернення коштів, спори щодо оплати та скасування підписки регулюються правилами Google Play. Ми можемо оновлювати функції або ціни Premium; існуючі покупки підпорядковуються відповідним правилам магазину.
 
+#### Власні фони користувача
+
+• Premium може включати використання вашого зображення як фону картки з цитатою. Перед першим імпортом застосунок показує коротке попередження, яке потрібно підтвердити.
+• Ви підтверджуєте, що маєте право використовувати зображення (своє фото, ліцензія або public domain) і що воно не є незаконним, таким, що порушує права інших, чи іншим забороненим контентом.
+• Розробник не переглядає і не модерує зображення, які залишаються на вашому пристрої, і **не розділяє з вами відповідальність** за їхній зміст, авторські права та наслідки використання (зокрема, якщо ви надішлете створену картинку з цитатою).
+• Відповідальність за обрані вами зображення несете лише ви. Як вони зберігаються на пристрої, описано в Політиці конфіденційності.
+• Ми можемо вимкнути цю функцію, якщо цього вимагатимуть правила магазину.
+
 #### Донати
 
 • Ви можете підтримати розробника через «Підтримати розробника» (consumable-покупка в Google Play або Monobank). Це окремо від Premium. Оплату обробляє відповідний провайдер; ми не обробляємо платіжні дані. Повернення коштів регулюються правилами провайдера.
@@ -96,7 +112,7 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Обмеження відповідальності
 
-• Застосунок надається «як є». Ми не несемо відповідальності за непрямі збитки, що виникли внаслідок використання застосунку.
+• Застосунок надається «як є». Ми не несемо відповідальності за непрямі збитки, що виникли внаслідок використання застосунку, зокрема через зображення, які ви обрали як фон.
 
 ---
 
@@ -104,7 +120,7 @@ By using the app "Daily Quote" you agree to the following:
 
 ### Условия использования
 
-Последнее обновление: август 2026
+Последнее обновление: сентябрь 2026
 
 Используя приложение «Цитата Дня», вы соглашаетесь со следующим.
 
@@ -125,6 +141,14 @@ By using the app "Daily Quote" you agree to the following:
 • Premium необязателен и отделён от донатов. Его можно приобрести как ежемесячную подписку (автопродление до отмены в аккаунте Google Play) или разовую покупку «навсегда».
 • Возврат средств, споры по оплате и отмена подписки регулируются правилами Google Play. Мы можем обновлять функции или цены Premium; существующие покупки подчиняются правилам магазина.
 
+#### Собственные фоны пользователя
+
+• Premium может включать использование вашего изображения как фона карточки с цитатой. Перед первым импортом приложение показывает короткое предупреждение, которое нужно подтвердить.
+• Вы подтверждаете, что имеете право использовать изображение (своё фото, лицензия или public domain) и что оно не является незаконным, нарушающим права других или иным запрещённым контентом.
+• Разработчик не просматривает и не модерирует изображения, которые остаются на вашем устройстве, и **не разделяет с вами ответственность** за их содержание, авторские права и последствия использования (в том числе если вы отправите созданную картинку с цитатой).
+• Ответственность за выбранные вами изображения несёте только вы. Как они хранятся на устройстве, описано в Политике конфиденциальности.
+• Мы можем отключить эту функцию, если этого потребуют правила магазина.
+
 #### Донаты
 
 • Вы можете поддержать разработчика через «Поддержать разработчика» (consumable-покупка в Google Play или Monobank). Это отдельно от Premium. Оплату обрабатывает соответствующий провайдер; мы не обрабатываем платёжные данные. Возврат средств регулируется правилами провайдера.
@@ -143,4 +167,4 @@ By using the app "Daily Quote" you agree to the following:
 
 #### Ограничение ответственности
 
-• Приложение предоставляется «как есть». Мы не несём ответственности за косвенные убытки, возникшие в результате использования приложения.
+• Приложение предоставляется «как есть». Мы не несём ответственности за косвенные убытки, возникшие в результате использования приложения, в том числе из‑за изображений, которые вы выбрали как фон.
